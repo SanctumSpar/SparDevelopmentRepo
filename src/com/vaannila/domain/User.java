@@ -9,6 +9,7 @@ public class User {
 	private String aboutYou;
 	private String[] community;
 	private Boolean mailingList;
+	private Boolean mailingList1;
 	
 	
 	public String getName() {
