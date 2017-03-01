@@ -5,7 +5,6 @@ public class User {
 	private String name;
 	private String password;
 	private String gender;
-	private String gender1;
 	private String country;
 	private String aboutYou;
 	private String[] community;
