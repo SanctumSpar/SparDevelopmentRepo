@@ -9,6 +9,8 @@ public class User {
 	private String country;
 	private String aboutYou;
 	private String[] community;
+	
+	
 	private Boolean mailingList;
 	
 	
