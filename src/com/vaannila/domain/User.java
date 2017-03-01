@@ -3,13 +3,11 @@ package com.vaannila.domain;
 public class User {
 
 	private String name;
-	private String name1;
 	private String password;
 	private String gender;
 	private String country;
 	private String aboutYou;
 	private String[] community;
-	
 	private Boolean mailingList;
 	
 	
@@ -53,9 +51,7 @@ public class User {
 		return mailingList;
 	}
 	public void setMailingList(Boolean mailingList) {
-	
-
-	this.mailingList = mailingList;
+		this.mailingList = mailingList;
 	}
 	
 	
